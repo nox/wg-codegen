@@ -1,4 +1,4 @@
-# The Rust Verification working group
+# The Rust codegen working group
 
 This working group is intended to provide a forum for all things related to code generation for Rust.
 
