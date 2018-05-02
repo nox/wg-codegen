@@ -19,7 +19,7 @@ We follow the [Rust Code of Contact](https://www.rust-lang.org/en-US/conduct.htm
 
 ## License
 
-The output of the verification working group is distributed under the following licenses:
+The output of this working group is distributed under the following licenses:
 
 * The code samples are licensed under the terms of both the [MIT License] and the [Apache License v2.0].
 * The written prose is licensed under the terms of the Creative Commons [CC-BY-SA v4.0] license.
